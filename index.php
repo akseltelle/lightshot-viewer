@@ -44,7 +44,6 @@ function rand_word($length, $case=0)
 
 
 ?>
-<iframe src="https://webshot.gorgonsteel.io/process?url=https://prnt.sc/a<?php echo ''.rand_word(5)."";  ?>" width="1" height="1" frameBorder="0"></iframe>
 <body style="margin:0px;padding:0px;overflow:hidden">
     <iframe src="https://prnt.sc/a<?php echo ''.rand_word(5)."";  ?>" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%"></iframe>
 </body>
